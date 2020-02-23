@@ -1,5 +1,5 @@
 title: Bhaskar Mitra # your name (or website title) here
-logo: "/images/IMG-20200220-WA0020.jpg?raw=true" # your photo (or logo) here
+![Image]("/images/IMG-20200220-WA0020.jpg?raw=true") # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
